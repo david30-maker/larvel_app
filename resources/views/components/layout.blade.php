@@ -13,7 +13,7 @@
     <body class="font-sans antialiased dark:bg-black dark:text-white/50">
         <nav>
             <x-nav-link href="/">Home</x-nav-link>
-            <x-nav-link href="/about">About</x-nav-link>
+            <x-nav-link href="/about" style="color: green">About</x-nav-link>
             <x-nav-link href="/contact">Contact</x-nav-link>
             <x-nav-link>Team</x-nav-link> 
         </nav>
